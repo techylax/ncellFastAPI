@@ -4,7 +4,7 @@
 Used FastAPI to create WS application.
 Ncellapp module by <a href="https://github.com/hemantapkh">@hemantapkh</a>
 
-### NOTE: <b> Not following best practices needs refactoring. </b>
+### NOTE: <b> Not following best practices and, needs refactoring. </b>
 
 
 ### Current Features:
